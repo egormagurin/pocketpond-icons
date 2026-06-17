@@ -1,0 +1,6 @@
+# Keep this assets repo to just the icons — no IDE / OS cruft.
+.idea/
+.vs/
+*.user
+.DS_Store
+Thumbs.db
